@@ -18,7 +18,7 @@ import { HttpClientModule} from '@angular/common/http';
     EditEmployeeComponent,
     ListEmployeeComponent
   ],
-  // Se importaron los modulos para trabajar con formularios Reactivos
+  // Se importaron los modulos para trabajar con formularios Reactivos (FormsModule, ReactiveFormsModule, HttpClientModule)
   imports: [
     BrowserModule,
     AppRoutingModule,
